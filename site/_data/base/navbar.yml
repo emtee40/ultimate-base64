@@ -5,17 +5,17 @@ center:
   - title: About
     url: /about/
 
-  # - title: Explainer
-  #   url: /explainer/
-  #
-  # - title: Guides
-  #   url: /blog/
-  #
+  - title: Tutorials
+    url: /tutorials/
+
   - title: More tools
     url: /more/
 
   - title: Contact
     url: /contact/
+
+  - title: Terms
+    url: /cookies/
 
 # right:
 #   - title: START
